@@ -8,7 +8,7 @@ To convince investors that a bike-sharing program is a solid business proposal, 
 ## Results: 
 To confirm the results of our analysis please review our Tableau Story in the link below: 
 
-[NYC Story](https://public.tableau.com/app/profile/leslie.cornejo4842/viz/NYCChallengeStory_16543948360150/NYCChallengeStory?publish=yes)
+- [NYC Story](https://public.tableau.com/app/profile/leslie.cornejo4842/viz/NYCChallengeStory_16543948360150/NYCChallengeStory?publish=yes)
 
 List of Visualizations:
 
