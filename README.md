@@ -6,7 +6,7 @@ In this analysis we are looking into how the bikeshare business works in NYC and
 To convince investors that a bike-sharing program is a solid business proposal, we create a bike trip analysis in tableau.
 
 ## Results: 
-Using the visualizations you have in your Tableau Story, describe the results of each visualization underneath the image.
+[link to dashboard](https://public.tableau.com/app/profile/leslie.cornejo4842/viz/NYCChallengeStory_16543948360150/NYCChallengeStory?publish=yes)
 
 ## Summary: 
 Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset.
